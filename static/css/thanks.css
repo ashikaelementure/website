@@ -1,0 +1,11 @@
+.redirecting p{
+    font-size:0.62rem;
+    margin:1rem auto 0.5rem auto;
+    opacity:0.6;
+  }
+  .redirecting-time{
+    background-color:#CDEDF6;
+    border-radius:50px;
+    font-weight:bold;
+    padding:5px 12px;
+  }
