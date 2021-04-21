@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+h1, h2, h3, h4, h5, h6, p, .a, .navbar-brand, .btn {
+    font-family: 'Bai Jamjuree', sans-serif !important;
+  }
+
+  .nav-link {
+      font-family: 'Bai Jamjuree';
+      color: #000000;
+      font-weight: 600;
+      padding-top: 16px;
+  }
+
+  .navbar-brand {
+      font-size: 30px;
+      font-weight: 600 !important;
+  }
+  
+  h1 {
+    font-weight: 400 !important;
+  }
+  
+  h2 {
+    font-weight: 600 !important;
+  }
+  
+  p {
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    color: #637381 !important;
+  }
+  
+  .custom-button {
+    background-color: #3CA55C !important;
+    border-radius: 3px;
+    border-color: #B5AC49 !important;
+    font-weight: 500 !important;
+    color: black;
+  }
+  
+  .purple {
+    background: linear-gradient(26deg,#3CA55C, #B5AC49 75%);
+  }
+  
+  .text-inverse {
+    color: #fff !important;
+  }
+  
+  .full-page {
+    min-height: calc(100vh - 40px);
+  }
+  
+  .jumbotron {
+    margin-top: 40px;
+  }
+  
+  #team {
+    position: relative;
+  }
+  
+  .right {
+    float: right;
+  }
+  
+  .left {
+    display: block;
+    overflow: hidden;
+  }
+  
+  #about {
+    background: #e9ecef;
+    padding-top: 30px ;
+  }
+  
+  /* .imgAbout {
+    width: 60%;
+    height: 40%;
+  } */
+
+.card {
+    padding: 2% 7%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+}
+
+ul>li {
+    padding: 4px
+}
+
+ul>li:hover {
+    color: green;
+    cursor: pointer
+}
+
+hr {
+    border-width: 3px
+}
+
+.social>i {
+    padding: 1%;
+    font-size: 15px
+}
+
+.social>i:hover {
+    color: #957bda;
+    cursor: pointer
+}
+
+.policy>div {
+    padding: 4px
+}
+
+.heading {
+    font-family: 'Titillium Web', sans-serif;
+    color: white
+}
+
+.divider {
+    border-top: 2px solid rgba(189, 196, 203, 0.5);
+}
