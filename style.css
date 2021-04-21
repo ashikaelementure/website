@@ -78,10 +78,10 @@ h1, h2, h3, h4, h5, h6, p, .a, .navbar-brand, .btn {
       
 
   
-  /* .imgAbout {
-    width: auto;
-    height:10%;
-  } */
+  .imgAbout {
+    width: 100%;
+    height:auto;
+  }
 
 .card {
     padding: 2% 7%;
