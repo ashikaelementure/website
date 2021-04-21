@@ -55,6 +55,7 @@ h1, h2, h3, h4, h5, h6, p, .a, .navbar-brand, .btn {
     margin-top: 40px;
   }
   
+  
   #team {
     position: relative;
   }
@@ -71,15 +72,23 @@ h1, h2, h3, h4, h5, h6, p, .a, .navbar-brand, .btn {
   #about {
     background: #e9ecef;
     padding-top: 30px ;
+    
   }
   
+      
+
+  
   /* .imgAbout {
-    width: 60%;
-    height: 40%;
+    width: auto;
+    height:10%;
   } */
 
 .card {
     padding: 2% 7%;
+}
+
+@media screen {
+    
 }
 
 ul {
