@@ -10,5 +10,5 @@ var timer = setInterval(function () {
 
 function redirectToOrigin() {
     clearInterval(timer);
-    window.location.assign("http://192.168.0.103/elemweb/");
+    window.location.assign("http://192.168.0.103/elemweb/templates/");
 }
